@@ -8,7 +8,7 @@ class App extends Component{
 
     render(){
         return(
-            <h1>Homework done? {this.state.answer} </h1>
+            <h1>Have you prayed for our Prophet Mohammed? {this.state.answer} </h1>
         )
     }
 }
