@@ -8,8 +8,8 @@ function Header(){
     }
 
     const info = {
-        name: "Nour",
-        nick: "Homsi"
+        name: "Abdullah",
+        nick: "Altamimi"
     }
 
     return(
